@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando em **projetos relacionados a Tecnologia Assistiva e projetos autorais**
+- 🔭 Atualmente estou trabalhando em **projetos relacionados a Tecnologia Assistiva, projetos autorais e hackathons**
 
-- 🌱 Atualmente estou aprendendo **flutter e designer UI/UX**
+- 🌱 Aprendendo **flutter e designer UI/UX**
 
-- 👯 Estou procurando colaborar nas **áreas de Inovação e Inclusão**
+- 👯 Procurando colaborar nas **áreas de Inovação e Inclusão**
 
-- 🤝 Estou procurando ajuda com **desenvolvimento focado em Realidade Aumentada**
+- 🤝 Em busca de ajuda com **desenvolvimento focado em Realidade Aumentada**
 
 - 💬 Pergunte-me sobre **hackathons!**
 
