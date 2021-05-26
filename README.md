@@ -1,5 +1,5 @@
-<h1 align="center">Oi 👋, eu sou a Fernanda</h1>
-<h3 align="center">Sou Professora, desenvolvedora front-end, designer UI/UX e Doutoranda em Eng. Biomédica</h3>
+<h1 align="center">Oi 👋, eu sou Fernanda</h1>
+<h3 align="center">Sou Professora do Atendimento Educacional Especializado, Desenvolvedora front-end e Doutoranda em Eng. Biomédica</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandaps29&label=Profile%20views&color=0e75b6&style=flat" alt="fernandaps29" /> </p>
 
